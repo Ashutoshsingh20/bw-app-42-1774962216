@@ -1,7 +1,7 @@
 {
   "name": "bw-app-42-1774962216",
   "version": "1.0.0",
-  "description": "Velvet Signal monochrome ops dashboard",
+  "description": "Nova Arcade monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
